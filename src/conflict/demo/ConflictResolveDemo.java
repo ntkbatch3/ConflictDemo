@@ -5,10 +5,10 @@ public class ConflictResolveDemo {
 	public static void main(String[] args) {
 		
 		
-		int x = 10;
-		int y = 20;
+		int xx = 100;
+		int yy = 200;
 		
-		System.out.println(x + y);
+		System.out.println(xx + yy);
 		
 	}
 

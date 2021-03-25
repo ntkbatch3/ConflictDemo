@@ -6,11 +6,11 @@ public class ConflictResolveDemo {
 		
 		
 
-		int a = 10;
-		int b = 20;
+		int ay = 10;
+		int by = 20;
 
 
-		System.out.println(a + b);
+		System.out.println(ay + by);
 
 		
 	}

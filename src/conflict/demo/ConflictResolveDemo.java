@@ -4,10 +4,10 @@ public class ConflictResolveDemo {
 	
 	public static void main(String[] args) {
 
-		int numOne = 10;
-		int numTwo = 20;
+		int numOneABC = 10;
+		int numTwoXYZ = 20;
 
-		System.out.println(numOne + numTwo);
+		System.out.println(numOneABC + numTwoXYZ);
 
 		
 	}

@@ -3,14 +3,11 @@ package conflict.demo;
 public class ConflictResolveDemo {
 	
 	public static void main(String[] args) {
-		
-		
 
-		int ay = 10;
-		int by = 20;
+		int numOne = 10;
+		int numTwo = 20;
 
-
-		System.out.println(ay + by);
+		System.out.println(numOne + numTwo);
 
 		
 	}

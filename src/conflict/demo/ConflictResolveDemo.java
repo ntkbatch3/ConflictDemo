@@ -4,13 +4,19 @@ public class ConflictResolveDemo {
 	
 	public static void main(String[] args) {
 
-		int nOne = 10;
-		int nTwo = 20;
+		int a1 = 10;
+		int b1 = 20;
 
 	
-		System.out.println(nOne + nTwo);
+		System.out.println(a1 + b1);
 
 		
+	}
+	
+	
+	
+	public static void addNum() {
+		System.out.println(2+2);
 	}
 
 }
